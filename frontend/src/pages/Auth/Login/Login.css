@@ -1,0 +1,9 @@
+#login-container {
+    height: 100%;
+    width: 100%;
+}
+
+#form-area {
+    width: 50%;
+    margin-bottom: 200px;
+}

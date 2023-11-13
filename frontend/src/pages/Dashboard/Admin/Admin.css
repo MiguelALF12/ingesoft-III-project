@@ -1,0 +1,11 @@
+/* #admin-container {
+    width: 100%;
+} */
+
+#admin-subcontainer {
+    height: 80%;
+}
+
+#employee-not-selected-text {
+    margin: auto;
+}

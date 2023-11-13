@@ -1,0 +1,27 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  /* height: 100vh; */
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#container {
+  /* Important to note this config between body 100% and vh in container */
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
